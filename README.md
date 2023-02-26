@@ -11,7 +11,7 @@
 
 ## 📊 My Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&theme=tokyoday)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&theme=dracula)
 
 
 
