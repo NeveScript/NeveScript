@@ -10,8 +10,8 @@
 ![image](https://user-images.githubusercontent.com/123518676/221358232-0183f0fb-af23-45c6-a8f3-73828f1ad154.png) | ![image](https://user-images.githubusercontent.com/123518676/221358847-01f6ec0d-61f2-4680-a9d5-ba8b51611b51.png)
 
 ## 📊 My Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoYasha7&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoYasha7&show_icons=true&theme=tokyoday)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&theme=tokyoday)
 
 
 
