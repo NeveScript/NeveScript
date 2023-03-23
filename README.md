@@ -3,17 +3,34 @@
  > - Learning Back-end and mobile oriented development 💻
  > - AI is really interesting 💎
  
-## ![image](https://user-images.githubusercontent.com/123518676/221358539-ec3b0c12-f96c-4a81-9693-7fa648e59076.png) Languages:
-![image](https://user-images.githubusercontent.com/123518676/221356841-073415a5-2f5c-40aa-ad9e-537cedc9d19e.png) | ![image](https://user-images.githubusercontent.com/123518676/221358106-e7f6c84d-31db-49f1-8ccd-9f214fab0fda.png) | ![image](https://user-images.githubusercontent.com/123518676/223777745-86ad2623-9393-4494-a1bd-0c4161b0d5b9.png) | ![image](https://user-images.githubusercontent.com/123518676/221358132-05d2331a-12c7-47e7-bc75-ddf81df4ef75.png) | ![image](https://user-images.githubusercontent.com/123518676/221358144-ba117426-0288-4f0d-ba06-f5419e67c42c.png)
+## 💻 Languages:
 
+<!-- Lenguages -->
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489382052364419/Picsart_23-03-23_12-23-15-844.jpg?width=150&height=20) |
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489451178696866/Picsart_23-03-23_12-29-25-800.jpg?width=150&height=20) |
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489383004471407/Picsart_23-03-23_12-24-09-278.jpg?width=150&height=20) |
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489383243567144/Picsart_23-03-23_12-24-31-866.jpg?width=150&height=20) |
+<hr>
 
-## ![image](https://user-images.githubusercontent.com/123518676/221358485-6220a09e-6c2e-41c6-9409-d3cc55de7d80.png) Technologies:
-![image](https://user-images.githubusercontent.com/123518676/221358232-0183f0fb-af23-45c6-a8f3-73828f1ad154.png) | ![image](https://user-images.githubusercontent.com/123518676/221358847-01f6ec0d-61f2-4680-a9d5-ba8b51611b51.png) | ![image](https://user-images.githubusercontent.com/123518676/223762176-8a895c71-a476-45bc-a0bf-7f978fb2e0b9.png)
+## ⚙ IDEs:
 
+<!--- IDEs -->
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489383511986278/Picsart_23-03-23_12-25-16-149.jpg?width=150&height=20) |
+<hr>
 
-## 📊 My Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoYasha7&show_icons=true&theme=tokyoday)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&theme=tokyoday)
+## 📟 Technologies:
+
+<!--- Technologies -->
+
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489384019513454/Picsart_23-03-23_12-26-03-722.jpg?width=150&height=20) |
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489450717335702/Picsart_23-03-23_12-26-52-410.jpg?width=150&height=20) |
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489451451338883/Picsart_23-03-23_12-29-00-739.jpg?width=150&height=20) |
+![image](https://media.discordapp.net/attachments/980094676151459842/1088489383784611961/Picsart_23-03-23_12-25-37-817.jpg?width=150&height=20) |
+<hr>
+
+## 📈 My Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoYasha7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&theme=tokyonight)
 
 
 
