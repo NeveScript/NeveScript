@@ -28,9 +28,6 @@
 ![image](https://media.discordapp.net/attachments/980094676151459842/1088489383784611961/Picsart_23-03-23_12-25-37-817.jpg?width=150&height=20) |
 <hr>
 
-## 📈 My Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoYasha7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoYasha7&theme=tokyonight)
 
 
 
