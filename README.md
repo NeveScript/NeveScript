@@ -29,7 +29,9 @@
 <hr>
 
 
+### Github Stats:
 
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=NekoYasha7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NekoYasha7&show_icons=true&locale=en&layout=compact&theme=radical" alt="NekoYasha7's Most used lang" /> |
 
 
 
