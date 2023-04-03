@@ -33,8 +33,8 @@ Technologies: </h2>
 ![image](https://media.discordapp.net/attachments/980094676151459842/1088489383784611961/Picsart_23-03-23_12-25-37-817.jpg?width=150&height=20) |
 <hr>
 
-
-### Github Stats:
+<h2> <img src="https://media.tenor.com/2lTZe2SvTkIAAAAj/games-game.gif" width="50" height="50" />
+Github Stats: </h2>  
 
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=NekoYasha7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NekoYasha7&show_icons=true&locale=en&layout=compact&theme=radical" alt="NekoYasha7's Most used lang" /> |
 
