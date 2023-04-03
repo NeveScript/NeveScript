@@ -1,9 +1,12 @@
-## 🔎 About Me
+<h2> <img src="https://media.tenor.com/Q5xwRQjMg8EAAAAj/%E5%93%88%E5%9B%89-hello.gif" width="50" height="50" />
+ About Me: </h2> 
+ 
  > - Systems Analysis and Development student 🤓
  > - Learning Back-end and mobile oriented development 💻
  > - AI is really interesting 💎
  
-## 💻 Languages:
+<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
+Languages: </h2> 
 
 <!-- Lenguages -->
 ![image](https://media.discordapp.net/attachments/980094676151459842/1088489382052364419/Picsart_23-03-23_12-23-15-844.jpg?width=150&height=20) |
@@ -12,15 +15,17 @@
 ![image](https://media.discordapp.net/attachments/980094676151459842/1088489383243567144/Picsart_23-03-23_12-24-31-866.jpg?width=150&height=20) |
 <hr>
 
-## ⚙ IDEs:
+<h2> <img src="https://media.tenor.com/HrIxkYG2f2sAAAAj/pepe-saber-aaa.gif" width="50" height="50" />
+ IDEs: </h2>
 
 <!--- IDEs -->
 ![image](https://media.discordapp.net/attachments/980094676151459842/1088489383511986278/Picsart_23-03-23_12-25-16-149.jpg?width=150&height=20) |
 <hr>
 
-## 📟 Technologies:
 
 <!--- Technologies -->
+<h2> <img src="https://media.tenor.com/_ks32BpO6WQAAAAj/ouvindo-m%C3%BAsica.gif" width="50" height="50" />
+Technologies: </h2>  
 
 ![image](https://media.discordapp.net/attachments/980094676151459842/1088489384019513454/Picsart_23-03-23_12-26-03-722.jpg?width=150&height=20) |
 ![image](https://media.discordapp.net/attachments/980094676151459842/1088489450717335702/Picsart_23-03-23_12-26-52-410.jpg?width=150&height=20) |
