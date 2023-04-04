@@ -20,16 +20,20 @@ Languages: </h2>
 <h2> <img src="https://media.tenor.com/HrIxkYG2f2sAAAAj/pepe-saber-aaa.gif" width="50" height="50" />
  IDEs: </h2>
 
-![image](https://media.discordapp.net/attachments/980094676151459842/1088489383511986278/Picsart_23-03-23_12-25-16-149.jpg?width=150&height=20) |
+|IDE          | Language    | Logo |
+|-------------|-------------|------|
+|Intellij IDEA|Java         | ![Untitled](https://user-images.githubusercontent.com/123518676/229855684-1da125ca-fdfb-4168-99c8-4e89d9823dfb.png) |
+| CLion       |C            | ![Untitled](https://user-images.githubusercontent.com/123518676/229856525-9f367179-71f3-4b71-ac71-58a47acf091f.png) |
+| VS Code     |Multipurpose | ![Untitled](https://user-images.githubusercontent.com/123518676/229857429-837b3800-35ea-4bcf-a243-1fd3da655665.png) |
 <hr>
 
 <h2> <img src="https://media.tenor.com/S46jlUx9MsQAAAAj/anime-lel.gif" width="50" height="50" />
  Frameworks: </h2>
  
-|Framework   | Logo |
-|------------|------|
-|Hibernate   |![Untitled](https://user-images.githubusercontent.com/123518676/229586226-ce270877-a9b6-41ff-aaf6-c8b15a6757c7.png) |
-|Spring Boot |![Untitled](https://user-images.githubusercontent.com/123518676/229587444-981b7f63-1528-4af7-9938-be5c09dd9ba1.png) |
+|Framework   | Language | Logo |
+|------------|----------|------|
+|Hibernate   | Java     |![Untitled](https://user-images.githubusercontent.com/123518676/229586226-ce270877-a9b6-41ff-aaf6-c8b15a6757c7.png) |
+|Spring Boot | Java     |![Untitled](https://user-images.githubusercontent.com/123518676/229587444-981b7f63-1528-4af7-9938-be5c09dd9ba1.png) |
 
 
 <!--- Technologies -->
