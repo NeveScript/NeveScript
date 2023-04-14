@@ -33,7 +33,7 @@ Languages: </h2>
 |Framework   | Language | Logo |
 |------------|----------|------|
 |Hibernate   | Java     |![Untitled](https://user-images.githubusercontent.com/123518676/229586226-ce270877-a9b6-41ff-aaf6-c8b15a6757c7.png) |
-|Spring Boot | Java     |![Untitled](https://user-images.githubusercontent.com/123518676/229587444-981b7f63-1528-4af7-9938-be5c09dd9ba1.png) |
+|Spring      | Java     |![Untitled](https://user-images.githubusercontent.com/123518676/229587444-981b7f63-1528-4af7-9938-be5c09dd9ba1.png) |
 
 
 <!--- Technologies -->
