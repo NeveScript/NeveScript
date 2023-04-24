@@ -21,8 +21,12 @@ Languages: </h2>
 |------------|--------|-----------|
 |![Untitled](https://user-images.githubusercontent.com/123518676/229586226-ce270877-a9b6-41ff-aaf6-c8b15a6757c7.png) |![Untitled](https://user-images.githubusercontent.com/123518676/229587444-981b7f63-1528-4af7-9938-be5c09dd9ba1.png) | ![image](https://user-images.githubusercontent.com/123518676/233875402-342ea7e0-888d-4243-b2b1-7ed57946cb23.png)
 
-
-
+<h2> <img src="https://media.tenor.com/UGvbGZW6E2EAAAAj/minecraft-crystal.gif" width="50" height="50" />
+ Database: </h2>
+ 
+|MySql|
+|-----|
+|![image](https://user-images.githubusercontent.com/123518676/233876245-53a2997a-5e3b-4037-8c5a-7675ede6397b.png)|
 
 <!--- IDEs -->
 <h2> <img src="https://media.tenor.com/HrIxkYG2f2sAAAAj/pepe-saber-aaa.gif" width="50" height="50" />
@@ -35,16 +39,14 @@ Languages: </h2>
 | VS Code     |Multipurpose | ![Untitled](https://user-images.githubusercontent.com/123518676/229857429-837b3800-35ea-4bcf-a243-1fd3da655665.png) |
 <hr>
 
-
 <!--- Technologies -->
 <h2> <img src="https://media.tenor.com/_ks32BpO6WQAAAAj/ouvindo-m%C3%BAsica.gif" width="50" height="50" />
 Technologies: </h2>  
 
+|Git| GitHub | Maven | Excel | Thymeleaf|
+|---|--------|-------|-------|----------|
+|![image](https://user-images.githubusercontent.com/123518676/233876347-1d333399-175d-4291-8b23-acd410aca123.png)|![image](https://user-images.githubusercontent.com/123518676/233876402-da42e694-5b4b-4ddd-83a7-485d32f7cf06.png)|![image](https://user-images.githubusercontent.com/123518676/233876475-9602f2f1-add2-4284-88ea-1bcf01e00783.png)|![image](https://user-images.githubusercontent.com/123518676/233876524-11753667-4dbd-4549-bb0c-b9fc83e53f3a.png)|![image](https://user-images.githubusercontent.com/123518676/233876601-bf490177-0572-42df-b79a-aef8b5189efe.png)|
 
-![image](https://media.discordapp.net/attachments/980094676151459842/1088489384019513454/Picsart_23-03-23_12-26-03-722.jpg?width=150&height=20) |
-![image](https://media.discordapp.net/attachments/980094676151459842/1088489450717335702/Picsart_23-03-23_12-26-52-410.jpg?width=150&height=20) |
-![image](https://media.discordapp.net/attachments/980094676151459842/1088489451451338883/Picsart_23-03-23_12-29-00-739.jpg?width=150&height=20) |
-![image](https://media.discordapp.net/attachments/980094676151459842/1088489383784611961/Picsart_23-03-23_12-25-37-817.jpg?width=150&height=20) |
 <hr>
 
 <h2> <img src="https://media.tenor.com/2lTZe2SvTkIAAAAj/games-game.gif" width="50" height="50" />
