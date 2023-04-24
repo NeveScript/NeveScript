@@ -9,13 +9,21 @@
 Languages: </h2> 
 
 <!-- Languages -->
-| Language | Use in GitHub Repos |Logo |
-|----------|-----------------|------|
-|JAVA      |86.48%           |![Untitled](https://user-images.githubusercontent.com/123518676/229588472-03dd7dfe-2afb-4df9-b8b3-d76a18093a99.png)|
-|C         |10.68%           |![Untitled](https://user-images.githubusercontent.com/123518676/229588775-05519c76-cdeb-41e7-9815-0f02197960c6.png)|
-|HTML      |1.69%            |![Untitled](https://user-images.githubusercontent.com/123518676/229589039-58bf6961-9a9b-44bb-9cb6-a6f61a9961fb.png)|
-|CSS       |1.15%            |![Untitled](https://user-images.githubusercontent.com/123518676/229589423-2abc5942-a359-4bc5-9922-64edc7395c53.png)|
+| Java     | C                | HTML            | CSS |
+|----------|------------------|-----------------|-----|
+|![Untitled](https://user-images.githubusercontent.com/123518676/229588472-03dd7dfe-2afb-4df9-b8b3-d76a18093a99.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229588775-05519c76-cdeb-41e7-9815-0f02197960c6.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229589039-58bf6961-9a9b-44bb-9cb6-a6f61a9961fb.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229589423-2abc5942-a359-4bc5-9922-64edc7395c53.png)|
 <hr>
+
+<h2> <img src="https://media.tenor.com/S46jlUx9MsQAAAAj/anime-lel.gif" width="50" height="50" />
+ Frameworks: </h2>
+ 
+|Hibernate   | Spring | Bootstrap |
+|------------|--------|-----------|
+|![Untitled](https://user-images.githubusercontent.com/123518676/229586226-ce270877-a9b6-41ff-aaf6-c8b15a6757c7.png) |![Untitled](https://user-images.githubusercontent.com/123518676/229587444-981b7f63-1528-4af7-9938-be5c09dd9ba1.png) | ![image](https://user-images.githubusercontent.com/123518676/233875402-342ea7e0-888d-4243-b2b1-7ed57946cb23.png)
+
+
+
+
 <!--- IDEs -->
 <h2> <img src="https://media.tenor.com/HrIxkYG2f2sAAAAj/pepe-saber-aaa.gif" width="50" height="50" />
  IDEs: </h2>
@@ -26,14 +34,6 @@ Languages: </h2>
 | CLion       |C            | ![Untitled](https://user-images.githubusercontent.com/123518676/229856525-9f367179-71f3-4b71-ac71-58a47acf091f.png) |
 | VS Code     |Multipurpose | ![Untitled](https://user-images.githubusercontent.com/123518676/229857429-837b3800-35ea-4bcf-a243-1fd3da655665.png) |
 <hr>
-
-<h2> <img src="https://media.tenor.com/S46jlUx9MsQAAAAj/anime-lel.gif" width="50" height="50" />
- Frameworks: </h2>
- 
-|Framework   | Language | Logo |
-|------------|----------|------|
-|Hibernate   | Java     |![Untitled](https://user-images.githubusercontent.com/123518676/229586226-ce270877-a9b6-41ff-aaf6-c8b15a6757c7.png) |
-|Spring      | Java     |![Untitled](https://user-images.githubusercontent.com/123518676/229587444-981b7f63-1528-4af7-9938-be5c09dd9ba1.png) |
 
 
 <!--- Technologies -->
