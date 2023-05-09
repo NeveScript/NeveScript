@@ -9,9 +9,11 @@
 Languages: </h2> 
 
 <!-- Languages -->
-| Java     | C                | HTML            | CSS |
-|----------|------------------|-----------------|-----|
-|![Untitled](https://user-images.githubusercontent.com/123518676/229588472-03dd7dfe-2afb-4df9-b8b3-d76a18093a99.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229588775-05519c76-cdeb-41e7-9815-0f02197960c6.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229589039-58bf6961-9a9b-44bb-9cb6-a6f61a9961fb.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229589423-2abc5942-a359-4bc5-9922-64edc7395c53.png)|
+| Java     | C                | HTML            | CSS | JavaScript |
+|----------|------------------|-----------------|-----|-------------|
+|![Untitled](https://user-images.githubusercontent.com/123518676/229588472-03dd7dfe-2afb-4df9-b8b3-d76a18093a99.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229588775-05519c76-cdeb-41e7-9815-0f02197960c6.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229589039-58bf6961-9a9b-44bb-9cb6-a6f61a9961fb.png)|![Untitled](https://user-images.githubusercontent.com/123518676/229589423-2abc5942-a359-4bc5-9922-64edc7395c53.png)| ![image](https://github.com/NeveScript/NeveScript/assets/123518676/3e6dfc2d-5f7d-4aa3-8c6f-caf18ce49719)
+
+
 <hr>
 
 <h2> <img src="https://media.tenor.com/S46jlUx9MsQAAAAj/anime-lel.gif" width="50" height="50" />
@@ -43,9 +45,10 @@ Languages: </h2>
 <h2> <img src="https://media.tenor.com/_ks32BpO6WQAAAAj/ouvindo-m%C3%BAsica.gif" width="50" height="50" />
 Tools: </h2>  
 
-|Git| GitHub | Maven | Excel | Thymeleaf|
-|---|--------|-------|-------|----------|
-|![image](https://user-images.githubusercontent.com/123518676/233876347-1d333399-175d-4291-8b23-acd410aca123.png)|![image](https://user-images.githubusercontent.com/123518676/233876402-da42e694-5b4b-4ddd-83a7-485d32f7cf06.png)|![image](https://user-images.githubusercontent.com/123518676/233876475-9602f2f1-add2-4284-88ea-1bcf01e00783.png)|![image](https://user-images.githubusercontent.com/123518676/233876524-11753667-4dbd-4549-bb0c-b9fc83e53f3a.png)|![image](https://user-images.githubusercontent.com/123518676/233876601-bf490177-0572-42df-b79a-aef8b5189efe.png)|
+|Git| GitHub | Maven | Excel | Thymeleaf| Postman |
+|---|--------|-------|-------|----------|---------|
+|![image](https://user-images.githubusercontent.com/123518676/233876347-1d333399-175d-4291-8b23-acd410aca123.png)|![image](https://user-images.githubusercontent.com/123518676/233876402-da42e694-5b4b-4ddd-83a7-485d32f7cf06.png)|![image](https://user-images.githubusercontent.com/123518676/233876475-9602f2f1-add2-4284-88ea-1bcf01e00783.png)|![image](https://user-images.githubusercontent.com/123518676/233876524-11753667-4dbd-4549-bb0c-b9fc83e53f3a.png)|![image](https://user-images.githubusercontent.com/123518676/233876601-bf490177-0572-42df-b79a-aef8b5189efe.png)| ![image](https://github.com/NeveScript/NeveScript/assets/123518676/a870c30b-1f1b-4a1e-8426-7fdfd963d9ed)
+
 
 <hr>
 
