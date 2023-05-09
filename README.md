@@ -41,7 +41,7 @@ Languages: </h2>
 
 <!--- Technologies -->
 <h2> <img src="https://media.tenor.com/_ks32BpO6WQAAAAj/ouvindo-m%C3%BAsica.gif" width="50" height="50" />
-Technologies: </h2>  
+Tools: </h2>  
 
 |Git| GitHub | Maven | Excel | Thymeleaf|
 |---|--------|-------|-------|----------|
