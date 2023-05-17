@@ -58,7 +58,8 @@ Github Stats: </h2>
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=NeveScript&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeveScript&show_icons=true&locale=en&layout=compact&theme=radical" alt="NekoYasha7's Most used lang" /> |
 
 
-
+<img src="https://media.tenor.com/ZYsN_suYpt0AAAAj/johnny-walking-animation.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NeveScript}/count.svg" /></p> 
+<br>
 
 
 
