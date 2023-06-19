@@ -46,6 +46,12 @@ Github Stats: </h2>
 
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=NeveScript&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeveScript&show_icons=true&locale=en&layout=compact&theme=radical" alt="NekoYasha7's Most used lang" /> |
 
+<h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
+Main Projects: </h2>  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NeveScript&repo=Java-Discord-Bot-integrated-with-OpenAi-API&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NeveScript&repo=Vulcan-API&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NeveScript&repo=TikTok-Clone-With-React&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.tenor.com/ZYsN_suYpt0AAAAj/johnny-walking-animation.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NeveScript}/count.svg" /></p> 
 <br>
