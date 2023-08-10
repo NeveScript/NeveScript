@@ -23,6 +23,7 @@ My Stack: </h2>
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) <br>
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br/>
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
