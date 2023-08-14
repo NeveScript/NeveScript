@@ -14,7 +14,6 @@ My Stack: </h2>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring-boot&logoColor=white)<br>
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white) 
-![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white)<br>
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html-5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css-3&logoColor=white)
@@ -23,7 +22,9 @@ My Stack: </h2>
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) <br>
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white) <br />
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br/>
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
