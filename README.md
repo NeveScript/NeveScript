@@ -9,24 +9,41 @@
 My Stack: </h2> 
 
 <!-- Languages -->
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-yellow?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring-boot&logoColor=white)<br>
+
+> **Languages:** <br>
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white) 
-![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=white)<br>
+![PHP](https://img.shields.io/badge/PHP-violet?style=for-the-badge&logo=php&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html-5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css-3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css-3&logoColor=white) <br>
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) <br>
+
+> **Frameworks:** <br>
+
+![Hibernate](https://img.shields.io/badge/Hibernate-yellow?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
+![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=black)
+
+> **Database:** <br>
+
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white) <br />
+![Postgres](https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)<br>
+
+> **Cloud:** <br>
+
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+> **Containers:** <br>
+
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br/>
-![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+> **IDEs:** <br>
+
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-red?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-green?style=for-the-badge&logo=clion&logoColor=white)<br/>
 <hr>
@@ -40,6 +57,7 @@ Tools: </h2>
 ![PostMan](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-blue?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <hr>
 
