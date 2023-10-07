@@ -6,7 +6,7 @@
  > - AI is really interesting 💎
  
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
-My Stack: </h2> 
+Main Stack: </h2> 
 
 <p align="left">
  
@@ -17,15 +17,35 @@ My Stack: </h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=50 height=50 />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50 height=50 />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=50 height=50 />
+        
+</p>
+<hr>
+
+<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
+Auxiliary Stack: </h2> 
+
+<p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 height=50 />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50 />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50 height=50 />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50 />
-        
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50 height=50 />
+ 
 </p>
 <hr>
 
+<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
+Just for Study and Hobby: </h2> 
+
+<p align="left">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=50 height=50 />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50 height=50 /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=50 /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 />
+
+</p>
+<hr>
 <!--- Technologies -->
 <h2> <img src="https://media.tenor.com/_ks32BpO6WQAAAAj/ouvindo-m%C3%BAsica.gif" width="50" height="50" />
 Tools: </h2>  
