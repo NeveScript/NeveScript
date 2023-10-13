@@ -1,5 +1,4 @@
-<h2> <img src="https://media.tenor.com/Q5xwRQjMg8EAAAAj/%E5%93%88%E5%9B%89-hello.gif" width="50" height="50" />
- About Me: </h2> 
+<b><img src="https://media.tenor.com/Q5xwRQjMg8EAAAAj/%E5%93%88%E5%9B%89-hello.gif" width="50" height="50" /> About Me:</b>
 
  > - Systems Analysis and Development student 🤓
  > - Focus on Back-end (Java) and Mobile (Flutter) Development 💻
