@@ -1,8 +1,9 @@
 <b><img src="https://media.tenor.com/Q5xwRQjMg8EAAAAj/%E5%93%88%E5%9B%89-hello.gif" width="50" height="50" /> About Me:</b>
 
- > - Systems Analysis and Development student 🤓
- > - Focus on Back-end (Java) and Mobile (Flutter) Development 💻
- > - AI is really interesting 💎
+ > - I'm an undergraduate student studying Systems Analysis and Development and also a Researcher at the Federal Institute of Education, Science and Technology of Bahia, Irecê campus. <br>
+I'm currently specializing in Backend development with the Java programming language and other languages in its family, such as Kotlin. In addition to Backend, I also work with Flutter for Android and IOS development.
+As a hobby, I like to study Artificial Intelligence, Embedded Systems and low-level languages.
+
  
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
 Main Stack: </h2> 
