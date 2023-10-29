@@ -1,9 +1,15 @@
 <b><img src="https://media.tenor.com/Q5xwRQjMg8EAAAAj/%E5%93%88%E5%9B%89-hello.gif" width="50" height="50" /> About Me:</b>
 
- > - I'm an undergraduate student studying Systems Analysis and Development and also a Researcher at the Federal Institute of Education, Science and Technology of Bahia, Irecê campus. <br>
-I'm currently specializing in Backend development with the Java programming language and other languages in its family, such as Kotlin. In addition to Backend, I also work with Flutter for Android and IOS development.
-As a hobby, I like to study Artificial Intelligence, Embedded Systems and low-level languages.
-
+ > - My first contact with programming was at the age of 14. I studied the Lua programming language to try to create a game on the Roblox platform. <br>
+The following year, I started studying web programming, with the HTML, CSS and JS languages, and I used this knowledge to create a website on the Blogger platform. <br>
+When I was 17, I sold the website I had developed and took a break from studying web programming, because at that time I entered the Federal Institute of Education, Science and Technology of Bahia (IFBA), Irecê campus, to start my degree in Systems Analysis and Development. 
+During the course, I had contact with several different programming languages and technologies, such as Java, C, Arduino, flutter and so on. <br>
+I'm currently a researcher at IFBA, developing software in the Java language, and I'm starting my Final Paper.
+Below are some of my projects to highlight:
+> 1. Ecocoleta (Web Frontend, Backend, Mobile - Developing): An application to facilitate the collection of recyclable materials, promoting communication between collectors and residents who wish to dispose of their recyclable waste in a conscious manner.
+> 2. SGIF (API - Developing): API that is part of a new system for the IFBA, Irecê campus.
+> 3. Vulcan Novels (Web Frontend, API - Monitoring and upgrading): Modern website for reading Asian and Western novels.
+> 4. Biosimule (Desktop - To be developed): Software that simulates various biochemical processes.
  
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
 Main Stack: </h2> 
