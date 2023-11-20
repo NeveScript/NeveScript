@@ -9,24 +9,24 @@ Below are some of my projects to highlight:
 
 | Project Name | TechStack | Status |
 | ------------ | --------- | ------ |
-| EcoColeta    | Flutter, Dart, Java, Spring Boot | Developing |
-| SGIF  API    | Java, Spring Boot | Developing |
-| Vulcan API   | Java, Spring Boot, PHP, Docker | Updating |
+| EcoColeta    | Flutter, Dart, Java, Spring Boot      | Developing  |
+| SGIF  API    | Java, Spring Boot                     | Developing  |
+| Vulcan API   | Java, Spring Boot, PHP, Docker        | Updating    |
 | Vulcan Novels| PHP, Wordpress, JavaScript, HTML, CSS | Refactoring | 
-| BioSimule    | Java, Java Swing  | Planning | 
+| BioSimule    | Java, Java Swing                      | Planning    | 
 
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
 Main Stack: </h2> 
 
 <p align="left">
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=50 height=50 />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50 height=50 alt="Spring" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50 height=50 alt="Java" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=50 height=50 alt="Dart" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=50 height=50 alt="Flutter" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=50 height=50 alt="Firebase" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50 height=50 alt="MySQL" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=50 height=50 alt="PostgreSQL" />
         
 </p>
 <hr>
