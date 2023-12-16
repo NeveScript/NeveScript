@@ -16,7 +16,7 @@ Below are some of my projects to highlight:
 | BioSimule    | Java, Java Swing                      | Planning    | 
 
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
-Main Stack: </h2> 
+Tech Stack: </h2> 
 
 <p align="left">
  
@@ -27,6 +27,9 @@ Main Stack: </h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=50 height=50 alt="Firebase" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50 height=50 alt="MySQL" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=50 height=50 alt="PostgreSQL" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width=50 height=50 alt="Nginx" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=50 height=50 alt="Docker" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 height=50 alt="Git" />
         
 </p>
 <hr>
@@ -58,9 +61,8 @@ Just for Study and Hobby: </h2>
 <hr>
 <!--- Technologies -->
 <h2> <img src="https://media.tenor.com/_ks32BpO6WQAAAAj/ouvindo-m%C3%BAsica.gif" width="50" height="50" />
-Tools: </h2>  
+Other Tools: </h2>  
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-blue?style=for-the-badge&logo=ngrok&logoColor=white)
