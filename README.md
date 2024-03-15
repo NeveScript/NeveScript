@@ -1,12 +1,58 @@
-<b><img src="https://media.tenor.com/Q5xwRQjMg8EAAAAj/%E5%93%88%E5%9B%89-hello.gif" width="50" height="50" /> About Me:</b>
-
+<details><summary><b><img src="https://media.tenor.com/Q5xwRQjMg8EAAAAj/%E5%93%88%E5%9B%89-hello.gif" width="50" height="50" /> About Me (Click me)</b></summary>
+ 
  > - My first contact with programming was at the age of 14. I studied the Lua programming language to try to create a game on the Roblox platform. <br>
 The following year, I started studying web programming, with the HTML, CSS and JS languages, and I used this knowledge to create a website on the Blogger platform. <br>
 When I was 17, I sold the website I had developed and took a break from studying web programming, because at that time I entered the Federal Institute of Education, Science and Technology of Bahia (IFBA), Irecê campus, to start my degree in Systems Analysis and Development. 
 During the course, I had contact with several different programming languages and technologies, such as Java, C, Arduino, flutter and so on. <br>
 I'm currently a researcher at IFBA, developing software in the Java language, and I'm starting my Final Paper.
-Below are some of my projects to highlight:
+ 
+</details>
 
+<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
+Professional Experience: </h2> 
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1iQxTBm4ef5bBkXJMAC5-Rglaa1L31Vh4arSrepHT_w&s"/>](https://www.portal.ifba.edu.br/irece)
+
+**Software Engineer** \
+[**IFBA, Campus Irecê**](https://www.portal.ifba.edu.br/irece) • \
+Languages & Technologies: `Java`, `UML`, `Figma`,\
+Projects: [EduSimLab](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software), 
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://vulcannovel.com.br/wp-content/uploads/elementor/thumbs/Vulcan_logo_azul-1-pl9o7ram601ae7s5b5o6sxi4dyjvwscwfh0apu23gg.png"/>](https://www.vulcannovel.com.br)
+
+**Full Stack Developer** \
+[**Vulcan**](https://www.vulcannovel.com.br) • \
+Languages & Technologies: `Java`, `Spring Boot`, `PHP`, `Wordpress`, `CSS`, `HTML`, `JavaScript`\
+Projects: [Vulcan Website](https://www.vulcannovel.com.br), [Vulcan API](https://github.com/giovaneneves7/Vulcan-API), 
+<br/>
+
+<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
+Tech Stack: </h2> 
+
+<p align="left">
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Python](https://img.shields.io/badge/-Pyhton-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) <br>
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![NodeJs](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+<hr>
+
+**Some of my projects to highlight:**  
 | Project Name | TechStack | Status |
 | ------------ | --------- | ------ |
 | EcoColeta    | Flutter, Dart, Java, Spring Boot      | Developing  |
@@ -14,66 +60,6 @@ Below are some of my projects to highlight:
 | Vulcan API   | Java, Spring Boot, PHP, Docker        | Updating    |
 | Vulcan Novels| PHP, Wordpress, JavaScript, HTML, CSS | Refactoring | 
 | BioSimule    | Java, Java Swing                      | Planning    | 
-
-<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
-Tech Stack: </h2> 
-
-<p align="left">
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50 height=50 alt="Spring" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50 height=50 alt="Java" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=50 height=50 alt="Dart" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=50 height=50 alt="Flutter" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=50 height=50 alt="Firebase" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50 height=50 alt="MySQL" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=50 height=50 alt="PostgreSQL" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width=50 height=50 alt="Nginx" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=50 height=50 alt="Docker" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 height=50 alt="Git" />
-        
-</p>
-<hr>
-
-<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
-Auxiliary Stack: </h2> 
-
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=50 height=50 />
- 
-</p>
-<hr>
-
-<h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
-Just for Study and Hobby: </h2> 
-
-<p align="left">
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50 height=50 /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=50 /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width=50 height=50 />
- 
-
-</p>
-<hr>
-<!--- Technologies -->
-<h2> <img src="https://media.tenor.com/_ks32BpO6WQAAAAj/ouvindo-m%C3%BAsica.gif" width="50" height="50" />
-Other Tools: </h2>  
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![PostMan](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-blue?style=for-the-badge&logo=ngrok&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)
-
-<hr>
 
 <h2> <img src="https://media.tenor.com/2lTZe2SvTkIAAAAj/games-game.gif" width="50" height="50" />
 Github Stats: </h2>  
