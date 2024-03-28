@@ -24,8 +24,17 @@ Projects: [EduSimLab](https://github.com/giovaneneves7/Industrial-Process-Simula
 **Full Stack Developer** \
 [**Vulcan**](https://www.vulcannovel.com.br) • \
 Languages & Technologies: `Java`, `Spring Boot`, `PHP`, `Wordpress`, `CSS`, `HTML`, `JavaScript`\
-Projects: [Vulcan Website](https://www.vulcannovel.com.br), [Vulcan API](https://github.com/giovaneneves7/Vulcan-API), 
+Projects: [Vulcan Website](https://www.vulcannovel.com.br), [Vulcan API](https://github.com/giovaneneves7/Vulcan-API), [Vulcan Bot](https://github.com/giovaneneves7/Lia)
 <br/>
+
+**Some of my projects to highlight:**  
+| Project Name | TechStack | 
+| ------------ | --------- | 
+| EcoColeta    | Flutter, Dart, Java, Spring Boot      | 
+| SGIF  API    | Java, Spring Boot                     | 
+| Vulcan API   | Java, Spring Boot, PHP, Docker        |
+| Vulcan Novels| PHP, Wordpress, JavaScript, HTML, CSS | 
+| EduSimLab    | Java, Java Swing                      | 
 
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
 Tech Stack: </h2> 
@@ -51,15 +60,6 @@ Tech Stack: </h2>
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <hr>
-
-**Some of my projects to highlight:**  
-| Project Name | TechStack | Status |
-| ------------ | --------- | ------ |
-| EcoColeta    | Flutter, Dart, Java, Spring Boot      | Developing  |
-| SGIF  API    | Java, Spring Boot                     | Developing  |
-| Vulcan API   | Java, Spring Boot, PHP, Docker        | Updating    |
-| Vulcan Novels| PHP, Wordpress, JavaScript, HTML, CSS | Refactoring | 
-| BioSimule    | Java, Java Swing                      | Planning    | 
 
 <h2> <img src="https://media.tenor.com/2lTZe2SvTkIAAAAj/games-game.gif" width="50" height="50" />
 Github Stats: </h2>  
