@@ -45,6 +45,7 @@ Tech Stack: </h2>
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Python](https://img.shields.io/badge/-Pyhton-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) <br>
@@ -68,9 +69,10 @@ Github Stats: </h2>
 <h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
 Main Projects: </h2>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Java-Discord-Bot-integrated-with-OpenAi-API&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Vulcan-API&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=TikTok-Clone-With-React&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Industrial-Process-Simulator-Software&theme=dark)](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=TikTok-Clone-With-React&theme=dark)](https://github.com/giovaneneves7/TikTok-Clone-With-React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Vulcan-API&theme=dark)](https://github.com/giovaneneves7/Vulcan-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Java-Discord-Bot-integrated-with-OpenAi-API&theme=dark)](https://github.com/giovaneneves7/Java-Discord-Bot-integrated-with-OpenAi-API)
 
 <img src="https://media.tenor.com/ZYsN_suYpt0AAAAj/johnny-walking-animation.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NeveScript}/count.svg" /></p> 
 <br>
