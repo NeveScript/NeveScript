@@ -23,8 +23,8 @@ Projects: [Delivery APP (Private Repo)](#), [Administrator Panel (Private Repo)]
 
 **Software Engineer** \
 [**IFBA, Campus Irecê**](https://www.portal.ifba.edu.br/irece) • \
-Languages & Technologies: `Java`, `UML`, `Figma`,\
-Projects: [EduSimLab](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software), 
+Languages & Technologies: `Java`, `Flutter`, `Figma`,\
+Projects: [EduSimLab](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software), [EcoColeta](https://github.com/giovaneneves7/EcoColeta__Frontend__) 
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://vulcannovel.com.br/wp-content/uploads/elementor/thumbs/Vulcan_logo_azul-1-pl9o7ram601ae7s5b5o6sxi4dyjvwscwfh0apu23gg.png"/>](https://www.vulcannovel.com.br)
@@ -34,15 +34,6 @@ Projects: [EduSimLab](https://github.com/giovaneneves7/Industrial-Process-Simula
 Languages & Technologies: `Java`, `Spring Boot`, `PHP`, `Wordpress`, `CSS`, `HTML`, `JavaScript`\
 Projects: [Vulcan Website](https://www.vulcannovel.com.br), [Vulcan API](https://github.com/giovaneneves7/Vulcan-API), [Vulcan Bot](https://github.com/giovaneneves7/Lia)
 <br/>
-
-**Some of my projects to highlight:**  
-| Project Name | TechStack | 
-| ------------ | --------- | 
-| EcoColeta    | Flutter, Dart, Java, Spring Boot      | 
-| SGIF  API    | Java, Spring Boot                     | 
-| Vulcan API   | Java, Spring Boot, PHP, Docker        |
-| Vulcan Novels| PHP, Wordpress, JavaScript, HTML, CSS | 
-| EduSimLab    | Java, Java Swing                      | 
 
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
 Tech Stack: </h2> 
