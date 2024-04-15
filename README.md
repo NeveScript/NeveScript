@@ -11,10 +11,10 @@ I'm currently a researcher at IFBA, developing software in the Java language, an
 <h2> <img src="https://media.tenor.com/I3RjM4xQO0kAAAAj/monitors-typing.gif" width="50" height="50" />
 Professional Experience: </h2> 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJB0ImBidUfDl9wgYB0mnM7a4xu09I4F0ozzz29fgNA&s"/>]([https://www.portal.ifba.edu.br/irece](https://m.facebook.com/anuncecom?locale=nl_NL))
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJB0ImBidUfDl9wgYB0mnM7a4xu09I4F0ozzz29fgNA&s"/>]([https://instagram.com/anuncebrasil](https://m.facebook.com/anuncecom?locale=nl_NL))
 
 **Fullstack Developer** \
-[**Anunce.com**](https://www.portal.ifba.edu.br/irece) • \
+[**Anunce.com**](https://instagram.com/anuncebrasil) • \
 Languages & Technologies: `Laravel`, `Flutter`, `JavaScript`, `HTML`, `CSS`\
 Projects: [Delivery APP (Private Repo)](#), [Administrator Panel (Private Repo)](#) 
 <br/>
