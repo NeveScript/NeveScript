@@ -51,9 +51,9 @@ Main Projects: </h2>
 ---
 
 ### Vamos nos Conectar 🌍
-- [Meu Site](https://seusite.com/)
-- [LinkedIn](https://www.linkedin.com/in/seuperfil/)
-- [Instagram](https://twitter.com/giovane.neves7/)
+- [GMAIL](mailto:giovaneneves87@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/giovane-neves-555845219)
+- [Instagram](https://instagram.com/giovane.neves7/)
 
 ---
 
