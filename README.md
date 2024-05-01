@@ -37,10 +37,10 @@ Projetos: [Website Vulcan](https://www.vulcannovel.com.br), [API Vulcan](https:/
 ---
 ### Estatísticas do GitHub
 
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=giovaneneves7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneneves7&show_icons=true&locale=en&layout=compact&theme=radical" alt="giovaneneves7's Most used lang" /> |
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=giovaneneves7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneneves7&show_icons=true&locale=en&layout=compact&theme=radical" alt="giovaneneves7's Most used lang" /> 
 
 <h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
-Main Projects: </h2>  
+Projetos Principais: </h2>  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Industrial-Process-Simulator-Software&theme=dark)](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=TikTok-Clone-With-React&theme=dark)](https://github.com/giovaneneves7/TikTok-Clone-With-React)
