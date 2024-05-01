@@ -37,7 +37,12 @@ Projetos: [Website Vulcan](https://www.vulcannovel.com.br), [API Vulcan](https:/
 ---
 ### Estatísticas do GitHub
 
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=giovaneneves7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneneves7&show_icons=true&locale=en&layout=compact&theme=radical" alt="giovaneneves7's Most used lang" /> 
+<div style="display: flex; justify-content: space-around;">
+    <img width="435em" src="https://github-profile-trophy.vercel.app/?username=giovaneneves7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneneves7&show_icons=true&locale=en&layout=compact&theme=radical" alt="giovaneneves7's Most used lang" />
+</div>
+
+<h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
 
 <h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
 Projetos Principais: </h2>  
