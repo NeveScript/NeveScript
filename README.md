@@ -3,12 +3,22 @@
 
 ### Olá, sou Giovane Neves 👋
 
-Sou Desenvolvedor Backend e Mobile, especializado em Java, Spring Boot, Flutter e Laravel. Sou apaixonado(a) pelo desenvolvimento de aplicações mobile, e meu objetivo é criar soluções inovadoras que impulsionem o sucesso do negócio/empresa.
+Sou Desenvolvedor **Backend** e **Mobile**, especializado em Java, Spring Boot, Flutter e Laravel. Sou apaixonado pelo desenvolvimento de aplicações mobile, e meu objetivo é criar soluções inovadoras que impulsionem o sucesso do negócio/empresa. Abaixo, segue as principais tecnologias que utilizo para desenvolver, testar, documentar, versionar e hospedar aplicações:
 
-  - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)   - ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Laravel](https://img.icons8.com/2266EE/laravel.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![Linux](https://img.icons8.com/color/48/000000/linux--v1.png)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,dart,flutter,php,laravel,wordpress,mysql,postgres,firebase,bootstrap,javascript,html,css,python" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,sublime,arduino,azure,latex" />
+  </a>
+</p>
 ---
 
-### 🔭 Experiência Profissional
+### 🔭 Minhas Experiências Profissionais
 
 [<img align="left" height="94px" width="94px" alt="Anunce.com" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJB0ImBidUfDl9wgYB0mnM7a4xu09I4F0ozzz29fgNA&s"/>](https://instagram.com/anuncebrasil)
 
