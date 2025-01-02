@@ -68,10 +68,5 @@ Projetos: [Website Vulcan](https://www.vulcannovel.com.br), [API Vulcan](https:/
 - [LinkedIn](https://www.linkedin.com/in/giovane-neves-555845219)
 - [Instagram](https://instagram.com/giovane.neves7/)
 
----
-
-<img src="https://media.tenor.com/ZYsN_suYpt0AAAAj/johnny-walking-animation.gif" width="300" height="200" /> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NeveScript}/count.svg" /></p> 
-<br>
-
 
 
