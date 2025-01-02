@@ -13,12 +13,21 @@ Sou Desenvolvedor **Backend** e **Mobile**, especializado em Java, Spring Boot, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,sublime,arduino,azure,latex" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,sublime,arduino,azure,latex,supabase" />
   </a>
 </p>
 ---
 
 ### 🔭 Minhas Experiências Profissionais
+
+[<img align="left" height="94px" width="94px" alt="Anunce.com" src="https://github.com/user-attachments/assets/e4e6773d-e433-4497-a838-fddd1a783253">](https://instagram.com/correaqui_oficial)
+
+**Desenvolvedor Mobile** \
+[**Corre Aqui!**](https://instagram.com/correaqui_oficial) • \
+Tecnologias: `Flutter`, `Supabase`\
+Projetos: [App Corre Aqui!](https://www.github.com/giovaneneves7/corre_aqui_mobile)
+<br/>
+
 
 [<img align="left" height="94px" width="94px" alt="Anunce.com" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJB0ImBidUfDl9wgYB0mnM7a4xu09I4F0ozzz29fgNA&s"/>](https://instagram.com/anuncebrasil)
 
@@ -51,17 +60,6 @@ Projetos: [Website Vulcan](https://www.vulcannovel.com.br), [API Vulcan](https:/
     <img width="435em" src="https://github-profile-trophy.vercel.app/?username=giovaneneves7&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true">
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovaneneves7&show_icons=true&locale=en&layout=compact&theme=radical" alt="giovaneneves7's Most used lang" />
 </div>
-
-<h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
-
-<h2> <img src="https://media.tenor.com/PraaeS-b7hAAAAAj/girl-cute.gif" width="50" height="50" />
-Projetos Principais: </h2>  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Industrial-Process-Simulator-Software&theme=dark)](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=TikTok-Clone-With-React&theme=dark)](https://github.com/giovaneneves7/TikTok-Clone-With-React)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Vulcan-API&theme=dark)](https://github.com/giovaneneves7/Vulcan-API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovaneneves7&repo=Java-Discord-Bot-integrated-with-OpenAi-API&theme=dark)](https://github.com/giovaneneves7/Java-Discord-Bot-integrated-with-OpenAi-API)
-
 
 ---
 
