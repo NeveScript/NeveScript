@@ -42,7 +42,7 @@ Projetos: [APP de Entregas (Repositório Privado)](#), [Painel Administrativo (R
 **Engenheiro de Software** \
 [**IFBA, Campus Irecê**](https://www.portal.ifba.edu.br/irece) • \
 Tecnologias: `Java`, `Flutter`, `Figma`\
-Projetos: [EduSimLab](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software), [EcoColeta](https://github.com/giovaneneves7/EcoColeta__Frontend__) 
+Projetos: [EduSimLab](https://github.com/giovaneneves7/Industrial-Process-Simulator-Software), [BeeAI](https://github.com/giovaneneves7/beeai_mobile), [EcoColeta](https://github.com/giovaneneves7/EcoColeta__Frontend__) 
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Vulcan" src="https://vulcannovel.com.br/wp-content/uploads/elementor/thumbs/Vulcan_logo_azul-1-pl9o7ram601ae7s5b5o6sxi4dyjvwscwfh0apu23gg.png"/>](https://www.vulcannovel.com.br)
